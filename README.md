@@ -1,4 +1,4 @@
-![image](https://github.com/palakdua-16/palakdua-16/assets/160044397/90cdb799-c8eb-42a6-a4a9-515856942e84)<h1 align="center">Hi 👋, I'm Palak Dua</h1>
+<h1 align="center">Hi 👋, I'm Palak Dua</h1>
 <h3 align="center">A QA Engineer</h3>
 
 - 🔭 I’m currently working on **Selenium,RESTASSURED,APITESTING**
